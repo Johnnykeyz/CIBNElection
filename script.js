@@ -15,7 +15,7 @@
 
             // Vote button click handler
             function handleVote() {
-                alert('Redirecting to voting form...');
+                window.location.href = 'https://evoting.cibng.org/';
                 // redirect to the actual voting form
             }
 
