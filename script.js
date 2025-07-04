@@ -3,7 +3,7 @@
             const navTabs = document.querySelectorAll('.nav-tab');
             const voteButton = document.querySelector('.vote-button');
             const mobileVoteBtn = document.querySelector('.mobile-vote-btn');
-
+/*
             // Tab switching functionality
             navTabs.forEach(tab => {
                 tab.addEventListener('click', function(e) {
@@ -12,7 +12,7 @@
                     this.classList.add('active');
                 });
             });
-
+*/
             // Vote button click handler
             function handleVote() {
                 window.location.href = 'https://evoting.cibng.org/';
