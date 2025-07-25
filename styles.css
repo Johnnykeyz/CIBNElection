@@ -118,7 +118,8 @@
         }
 
         .nav-tab {
-            padding: 1rem 1.1rem; 
+            height: auto;
+            max-width: 800px; 
             background: rgba(3, 57, 0, 0.9);
             color: white;
             box-shadow: 2px 2px 5px rgb(0, 67, 6);
